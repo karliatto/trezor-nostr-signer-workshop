@@ -1,0 +1,1 @@
+# trezor-nostr-signer-workshop
